@@ -1,0 +1,9 @@
+# IDE
+.vscode/
+
+# CMake
+build/
+
+# Test data
+datas/
+result/
